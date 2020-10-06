@@ -1,0 +1,50 @@
+mustang
+starfish
+waterbuck
+frog
+ox
+gazelle
+bear
+chimpanzee
+alpaca
+mule
+wolf
+capybara
+zebu
+chamois
+marten
+blue crab
+badger
+jerboa
+sheep
+cougar
+hedgehog
+mink
+leopard
+hartebeest
+oryx
+ibex
+mountain goat
+bumble bee
+octopus
+duckbill platypus
+puma
+elk
+otter
+orangutan
+jackal
+porcupine
+buffalo
+warthog
+canary
+porpoise
+pronghorn
+bunny
+yak
+ape
+gopher
+parrot
+eagle owl
+reindeer
+chipmunk
+seal
